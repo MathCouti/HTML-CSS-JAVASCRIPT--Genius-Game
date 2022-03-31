@@ -1,0 +1,60 @@
+main{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+   border: 1px solid black;
+   }
+   
+   .bot{
+   margin: -2px;
+   display: inline-block;
+    width: 200px;
+    height: 200px;
+    
+   }
+   #vermelho{
+   background-color: rgb(141, 0, 0);
+   }
+
+   #vermelho:hover{
+    background-color: rgb(218, 0, 0);
+   }
+
+   #verde{
+   background-color: rgb(1, 87, 1);
+   }
+   #verde:hover{
+    background-color: rgb(0, 139, 0);
+   }
+
+   #amarelo{
+   background-color: rgb(133, 133, 0);
+   }
+   
+   #amarelo:hover{
+    background-color: rgb(179, 179, 1);
+   }
+
+   #azul{
+   background-color: rgb(0, 0, 110);
+   }
+   #azul:hover{
+    background-color: rgb(1, 1, 170);
+    }
+   
+   h1 {
+    text-align: center;
+   }
+
+  
+   #inicio{
+       text-align: center;
+       background-color: beige;
+       border: 1px solid black;
+   }
+   #inicio:hover{
+    background-color: rgb(184, 184, 158);
+}
+
+
